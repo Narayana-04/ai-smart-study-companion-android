@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Smart Study Companion",
+  "description": "A comprehensive study tool for engineering students featuring AI-powered chat, exam answer generation, short notes, and practice quizzes using the Gemini API.",
+  "requestFramePermissions": []
+}
